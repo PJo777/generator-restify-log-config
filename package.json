@@ -1,0 +1,17 @@
+{
+  "name": "generator-restify-log-config",
+  "version": "0.1.0",
+  "description": "Yeoman generator for building RESTFul API with logging and environment-based properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Prasad Joshi",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^1.1.0"
+  }
+}
