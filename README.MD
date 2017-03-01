@@ -48,18 +48,21 @@ Run the generator:
 yo restify-log-config
 ```
 Install the node modules
+```
 npm update   
-
+```
 Start the server (node mon for file-watching)
+```
 gulp 
-
+```
 Add new routes
 Build a file with app specific logic (using instructons above) and drop it under the 'routes/' directory.
 The server will autometically pick the file and restart.
 
 Build - set the environment value so only that specific file is copied over to the dist folder. 
+```
 gulp build --env 
-
+```
 ## License
 
 MIT
