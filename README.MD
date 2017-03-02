@@ -1,10 +1,10 @@
 # generator-restify-log-config 
 
-A yeoman generator that will create the scaffolding for creating , running and building [restify](http://mcavage.me/node-restify/) based RESTful API, with support for logging and environment-specific configuration files. 
+A yeoman generator that will create the scaffolding for creating, running and building [restify](http://mcavage.me/node-restify/) based RESTful API, with support for logging and environment-specific configuration files. 
 
 Start developing a RESTful API in about 15 minutes.
 
-It adds to the functionalty from [generator-restify](https://travis-ci.org/chris-l/generator-restify).
+It adds to the functionality from [generator-restify](https://travis-ci.org/chris-l/generator-restify).
 
 
 ## Environment specific property files
